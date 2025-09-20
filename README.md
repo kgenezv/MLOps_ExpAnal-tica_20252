@@ -1,8 +1,10 @@
-WorkShop MLOps - PyCon 2023
+# WorkShop MLOps - PyCon 2023
+
 This repository is a MLOps project that utilizes WandB to management the Machine Learning Lifecycle and GitHub Actions to orchestrate the different pipelines. The goal of this project is to provide a streamlined workflow for machine learning development, from data preparation to model deployment. WandB is used for experiment tracking and visualization, while GitHub Actions is used for continuous integration and deployment. With this setup, developers can easily track their experiments, collaborate with others, and deploy their models with confidence.
 
-References to check
-Databricks and MLFlow: MLOps - End 2 end pipeline MLOps in Azure Machine Learning MLOps-V2
+## References to check
+Databricks and MLFlow: [MLOps - End 2 end pipeline](https://notebooks.databricks.com/demos/mlops-end2end/index.html)
+MLOps in Azure Machine Learning: [MLOps-V2](https://github.com/Azure/mlops-v2)
 
 Overview MLOps
 Before we begin to understand what MLOps is, let's first review the process of developing a Machine Learning model.
